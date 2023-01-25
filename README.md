@@ -33,9 +33,7 @@ Método
 toString	Devuelve la referencia, la marca, el nombre y el ingrediente esencial del producto como una cadena con el formato mostrado en la imagen que aparece más abajo.
  
 
-Salida por consola del método toString de la clase Producto
-Salida por consola del método toString de la clase Producto
-Salida por consola del método toString
+
 Ejercicio 2: Clase ProductoFacial.
 
 Implementa la clase ProductoFacial que representará los productos para el cuidado facial. Esta clase hereda de la clase Producto y añade los siguientes atributos y métodos:
@@ -91,9 +89,7 @@ Método
 
 toString	Devuelve la ciudad y los productos faciales de la tienda como una cadena con el formato mostrado en la imagen que aparece más abajo. Utiliza el método join.	
 
-Salida por consola del método toString de la clase Tienda
-Salida por consola del método toString de la clase Tienda
-Salida por consola del método toString de la clase Tienda
+
 Ejercicio 4: Creación y uso de objetos.
 
 Una vez implementadas las clases, realiza las siguientes tareas:
